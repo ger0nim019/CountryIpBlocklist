@@ -20,6 +20,6 @@ Singapore,
 Taiwan (Province of China),
 Thailand,
 Ukraine,
-United Arab Emirates,
-Viet Nam,
+United Arab Emirates and
+Viet Nam
 #########################################################################
